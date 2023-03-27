@@ -22,6 +22,7 @@ body {
 #search-box:focus {
 width: 100%;
 background-color: whitesmoke;
+outline-color: blue;
 }
 .country-list {
   list-style: none;
